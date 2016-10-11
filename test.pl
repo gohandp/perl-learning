@@ -22,5 +22,9 @@ my @inp = qw(5th
 
 my $arr = (1);
 push $arr, 2;
+push $arr, 2;
+push $arr, 2;
+push $arr, 2;
+push $arr, 2;
 
 print join(" ", @arr);
