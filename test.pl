@@ -28,3 +28,5 @@ push $arr, 2;
 push $arr, 2;
 
 print join(" ", @arr);
+print join(" ", @arr);
+print join(" ", @arr);
